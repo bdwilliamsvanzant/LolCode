@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LOLCode Docs</title>
-    <link>/</link>
-    <description>Recent content on LOLCode Docs</description>
+    <title>Lolcodes on LOLCode Docs</title>
+    <link>/lolcode/</link>
+    <description>Recent content in Lolcodes on LOLCode Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 08:57:54 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/lolcode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

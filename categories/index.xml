@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on LOLCode Docs</title>
+    <title>Categories on REEECode Docs</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on LOLCode Docs</description>
+    <description>Recent content in Categories on REEECode Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 08:57:54 -0400</lastBuildDate>
@@ -30,24 +30,6 @@
     </item>
     
     <item>
-      <title>Statements</title>
-      <link>/categories/statements/</link>
-      <pubDate>Thu, 05 May 2016 08:50:24 -0400</pubDate>
-      
-      <guid>/categories/statements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Input/Output</title>
-      <link>/categories/input/output/</link>
-      <pubDate>Thu, 05 May 2016 08:48:38 -0400</pubDate>
-      
-      <guid>/categories/input/output/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Operators</title>
       <link>/categories/operators/</link>
       <pubDate>Thu, 05 May 2016 08:46:10 -0400</pubDate>
@@ -62,15 +44,6 @@
       <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
       
       <guid>/categories/types/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variables</title>
-      <link>/categories/variables/</link>
-      <pubDate>Thu, 05 May 2016 08:39:55 -0400</pubDate>
-      
-      <guid>/categories/variables/</guid>
       <description></description>
     </item>
     

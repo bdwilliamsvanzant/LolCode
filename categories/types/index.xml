@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Types on LOLCode Docs</title>
+    <title>Types on REEECode Docs</title>
     <link>/categories/types/</link>
-    <description>Recent content in Types on LOLCode Docs</description>
+    <description>Recent content in Types on REEECode Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 08:41:21 -0400</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
       
       <guid>/lolcode/booleans/</guid>
-      <description>The two boolean (TROOF) values are WIN (true) and FAIL (false). The empty string (&amp;ldquo;&amp;rdquo;), an empty array, and numerical zero are all cast to FAIL. All other values evaluate to WIN.</description>
+      <description>The two REEEEE values are TRUE and FAIL.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       
       <guid>/lolcode/about_types/</guid>
       <description>(updated from 1.1)
-The variable types that LOLCODE currently recognizes are: strings (YARN), integers (NUMBR), floats (NUMBAR), and booleans (TROOF) (Arrays (BUKKIT) are reserved for future expansion.) Typing is handled dynamically. Until a variable is given an initial value, it is untyped (NOOB). Casting operations operate on TYPE types, as well.</description>
+The variable types that REEECODE currently recognizes are: strings (RE), integers (REE), floats (REEEE), and booleans (REEEEE). Typing is handled dynamically. Until a variable is given an initial value, it is untyped (EEER).</description>
     </item>
     
     <item>
@@ -36,8 +36,7 @@ The variable types that LOLCODE currently recognizes are: strings (YARN), intege
       <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
       
       <guid>/lolcode/untyped/</guid>
-      <description>The untyped type (NOOB) cannot be implicitly cast into any type except a TROOF. A cast into TROOF makes the variable FAIL. Any operations on a NOOB that assume another type (e.g., math) results in an error.
-Explicit casts of a NOOB (untyped, uninitialized) variable are to empty/zero values for all other types.</description>
+      <description>The untyped type (EEER) cannot be implicitly cast into any type except a REEEEEE. A cast into REEEEEE makes the variable FAIL. Any operations on a EEER that assume another type (e.g., math) results in an error.</description>
     </item>
     
     <item>
@@ -46,8 +45,7 @@ Explicit casts of a NOOB (untyped, uninitialized) variable are to empty/zero val
       <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
       
       <guid>/lolcode/numerical/</guid>
-      <description>A NUMBR is an integer as specified in the host implementation/architecture. Any contiguous sequence of digits outside of a quoted YARN and not containing a decimal point (.) is considered a NUMBR. A NUMBR may have a leading hyphen (-) to signify a negative number.
-A NUMBAR is a float as specified in the host implementation/architecture. It is represented as a contiguous string of digits containing exactly one decimal point. Casting a NUMBAR to a NUMBR truncates the decimal portion of the floating point number.</description>
+      <description>A RE is 1 while, A REEEE is a 1.0.</description>
     </item>
     
     <item>
@@ -56,18 +54,8 @@ A NUMBAR is a float as specified in the host implementation/architecture. It is 
       <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
       
       <guid>/lolcode/strings/</guid>
-      <description>String literals (YARN) are demarked with double quotation marks (&amp;ldquo;). Line continuation and soft-command-breaks are ignored inside quoted strings. An unterminated string literal (no closing quote) will cause an error.
-Within a string, all characters represent their literal value except the colon (:), which is the escape character. Characters immediately following the colon also take on a special meaning.
- :) represents a newline (\n) :&amp;gt; represents a tab (\t) :o represents a bell (beep) (\g) :&amp;rdquo; represents a literal double quote (&amp;ldquo;) :: represents a single literal colon (:)  The colon may also introduce more verbose escapes enclosed within some form of bracket.</description>
-    </item>
-    
-    <item>
-      <title>Arrays</title>
-      <link>/lolcode/arrays/</link>
-      <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
-      
-      <guid>/lolcode/arrays/</guid>
-      <description>Array and dictionary types are currently under-specified. There is general will to unify them, but indexing and definition is still under discussion.</description>
+      <description>String literals (RE) are marked with double quotation marks (&amp;ldquo;). Within a string, all characters represent their literal value except the colon (:), which is the escape character. Characters immediately following the colon also take on a special meaning.
+ XDNEWXD represents a newline (\n) XDTABXD represents a tab (\t) XD&amp;rdquo;XD represents a literal double quote (&amp;ldquo;) XD:XD represents a single literal colon (:)  </description>
     </item>
     
     <item>
@@ -76,8 +64,7 @@ Within a string, all characters represent their literal value except the colon (
       <pubDate>Thu, 05 May 2016 08:41:21 -0400</pubDate>
       
       <guid>/lolcode/types/</guid>
-      <description>The TYPE type only has the values of TROOF, NOOB, NUMBR, NUMBAR, YARN, and TYPE, as bare words. They may be legally cast to TROOF (all true except for NOOB) or YARN.
-TYPEs are under current review. Current sentiment is to delay defining them until user-defined types are relevant, but that would mean that type comparisons are left unresolved in the meantime.</description>
+      <description>The TYPE type only has the values of REEEEE, EEER, REE, REEEE, RE, and RAWR, as bare words. ALL is REEEEE and REEEEE is all XD.</description>
     </item>
     
   </channel>
